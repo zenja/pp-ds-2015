@@ -1,1 +1,3 @@
-# pp-ds-2015
+# PayPal Risk Data Science Shanghai
+
+![Poster](/poster.png)
